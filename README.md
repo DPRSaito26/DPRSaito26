@@ -27,8 +27,8 @@ I'm especially interested in advanced Python integrations for AI, cloud deployme
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=DPRSaito26&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DPRSaito26&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=DPRSaito26&title_color=10b981&icon_color=f59e0b&text_color=ffffff&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DPRSaito26&title_color=10b981&text_color=ffffff&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 <br>
 
@@ -42,6 +42,6 @@ I'm especially interested in advanced Python integrations for AI, cloud deployme
 <br>
 <div align="left">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=DPRSaito26&icon=0&color=5865F2&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=DPRSaito26&icon=0&color=10b981&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
