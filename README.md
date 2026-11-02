@@ -1,4 +1,4 @@
-# Hi, I'm Diego Fernando! 👋
+# Hi, I'm Diego Quispe! 👋
 
 I'm a **Systems Engineer student, Full-Stack Developer, and Data Analyst** focused on building web applications, backend systems, and data analytics projects.
 
