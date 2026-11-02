@@ -36,7 +36,7 @@ I'm especially interested in advanced Python integrations for AI, cloud deployme
 
 ## Contact & Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2310b981.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://diegoqcuri.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-%2310b981.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://diegoqcuri.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dfqc) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.qcuri@gmail.com)
 
