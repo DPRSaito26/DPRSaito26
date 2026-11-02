@@ -6,8 +6,6 @@ I'm currently working on full-stack web applications, including a personal finan
 
 I'm especially interested in advanced Python integrations for AI, cloud deployment strategies, integrating Supabase with web applications, and leveraging relational databases (SQL Server, MySQL, Oracle) and Power BI for data insights.
 
-*⚡ Fun fact: I built an F1-themed financial management system in Excel complete with custom VBA automation and dynamic KPI cards.*
-
 ---
 
 ## Technologies & Tools
