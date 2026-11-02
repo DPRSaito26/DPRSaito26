@@ -1,6 +1,6 @@
 # Hi, I'm Diego Quispe! 👋
 
-I'm a **Systems Engineer student, Full-Stack Developer, and Data Analyst** focused on building web applications, backend systems, and data analytics projects.
+I'm a **Bachelor in Systems Engineering, Full-Stack Developer, and Data Analyst** focused on building web applications, backend systems, and data analytics projects.
 
 I'm currently working on full-stack web applications, including a personal finance management system and e-commerce solutions. I specialize in backend development (PHP/Laravel, Node.js), CMS integrations (WordPress/WooCommerce), and database optimization.
 
