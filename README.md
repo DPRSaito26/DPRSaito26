@@ -42,6 +42,6 @@ I'm especially interested in advanced Python integrations for AI, cloud deployme
 <br>
 <div align="left">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=DPRSaito26&icon=0&color=5865F2" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=DPRSaito26&icon=0&color=5865F2&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
